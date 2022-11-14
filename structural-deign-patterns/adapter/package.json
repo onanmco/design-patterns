@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@types/node": "^18.11.9",
+    "@types/xml2js": "^0.4.11",
+    "xml2js": "^0.4.23"
+  }
+}
